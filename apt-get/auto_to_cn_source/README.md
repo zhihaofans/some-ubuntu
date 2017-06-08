@@ -17,3 +17,7 @@
 3. 16.04
 
 4. 14.04
+
+## Source server:
+
+[Ubuntu official China](http://cn.archive.ubuntu.com/ubuntu/) Provided by [Aliyun](https://www.aliyun.com)
