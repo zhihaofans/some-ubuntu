@@ -1,0 +1,13 @@
+deb http://cn.archive.ubuntu.com/ubuntu/ yakkety main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ yakkety-security main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ yakkety-updates main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ yakkety-backports main restricted universe multiverse
+##测试版源
+deb http://cn.archive.ubuntu.com/ubuntu/ yakkety-proposed main restricted universe multiverse
+# 源码
+deb-src http://cn.archive.ubuntu.com/ubuntu/ yakkety main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ yakkety-security main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ yakkety-updates main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ yakkety-backports main restricted universe multiverse
+##测试版源
+deb-src http://cn.archive.ubuntu.com/ubuntu/ yakkety-proposed main restricted universe multiverse
