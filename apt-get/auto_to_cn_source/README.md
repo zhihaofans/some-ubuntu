@@ -6,7 +6,9 @@
 
 3. `sudo ./apt_get_auto_to_cn_source.sh`
 
-4. Finish
+4. Auto backup old file
+
+5. Auto update apt-get list (Auto use `apt-get update`)
 
 ## Support Ubuntu version:
 
